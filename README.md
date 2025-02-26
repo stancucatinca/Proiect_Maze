@@ -1,1 +1,1 @@
-# Proiect_Maze
+# proiect_C++
